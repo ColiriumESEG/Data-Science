@@ -1,7 +1,7 @@
-Localização,Latitude {N+/S-},Longitude {E+/W-},Zona Horaria {+/- GMT},Elevação {m},,,,,,,,,,,,,,
+LocalizaÃ§Ã£o,Latitude {N+/S-},Longitude {E+/W-},Zona Horaria {+/- GMT},ElevaÃ§Ã£o {m},,,,,,,,,,,,,,
 Salvador,-12.90,-38.33,-3,13,,,,,,,,,,,,,,
 
-Mês,Dia,Hora,TBS {C},TBU {C},T. Pto Orvalho {C},Pressao Atmosferica {kPa},Umidade {kg/kg},U. R. {%},Densidade do ar {kg/m3},Entalpia {BTU/LB},Velocidade do Vento {m/s},Direção do Vento {graus},Cobertura Total de Nuvens {decimas},Rad Horizontal Extraterreste {Wh/m2},Rad Global Horizontal {Wh/m2},Rad Direta {Wh/m2},Rad Direta Normal {Wh/m2},Rad Difusa Horizontal {Wh/m2}
+MÃªs,Dia,Hora,TBS {C},TBU {C},T. Pto Orvalho {C},Pressao Atmosferica {kPa},Umidade {kg/kg},U. R. {%},Densidade do ar {kg/m3},Entalpia {BTU/LB},Velocidade do Vento {m/s},DireÃ§Ã£o do Vento {graus},Cobertura Total de Nuvens {decimas},Rad Horizontal Extraterreste {Wh/m2},Rad Global Horizontal {Wh/m2},Rad Direta {Wh/m2},Rad Direta Normal {Wh/m2},Rad Difusa Horizontal {Wh/m2}
 1,1,1,25.4,23.0,21.7,101.2,0.016737581,82,1.15013513,68.0,4,90,0,0,0,0,0,0
 1,1,2,25.0,23.1,22.0,101.2,0.017058413,85,1.151099943,68.4,4,90,3,0,0,0,0,0
 1,1,3,25.0,23.5,22.6,101.2,0.017675494,88,1.149989445,70.0,3,100,1,0,0,0,0,0
@@ -2997,7 +2997,7 @@ Mês,Dia,Hora,TBS {C},TBU {C},T. Pto Orvalho {C},Pressao Atmosferica {kPa},Umidad
 5,5,17,28.0,24.2,22.5,101.3,0.017496001,73,1.139978393,72.6,6,130,6,441,255,131,331,124
 5,5,18,26.8,24.0,22.6,101.3,0.017683241,79,1.144204034,71.9,5,140,6,134,77,40,142,38
 5,5,19,25.8,24.0,23.0,101.3,0.018104931,86,1.147275103,71.9,5,140,6,0,0,0,0,0
-5,5,20,25.0,23.6,22.7,101.3,0.017812723,89,1.150878889,70.4,6,140,8,0,0,0,0,0
+5,5,20,25.0,23.6,22.7,101.3,0.017812723,89,1.150878889,70.4,6,140,8,0,0,0,0,07
 5,5,21,25.2,23.5,22.5,101.4,0.017554066,87,1.151708365,69.9,5,120,6,0,0,0,0,0
 5,5,22,24.8,23.2,22.3,101.5,0.017241326,87,1.154956672,68.7,2,130,4,0,0,0,0,0
 5,5,23,25.2,23.5,22.5,101.5,0.01753556,87,1.152877534,69.9,3,140,0,0,0,0,0,0
